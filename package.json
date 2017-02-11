@@ -1,0 +1,8 @@
+{
+    "name": "nanos-freeroam",
+    "author": "Aaron 'aaronlad' K.",
+    "jcmp_dependencies": [
+        "chat",
+        "command-manager"
+    ]
+}
